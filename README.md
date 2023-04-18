@@ -1,7 +1,7 @@
 
 # ✨  MedZone ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for health related website in india
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -18,11 +18,11 @@ This is a web based application developed for health related based website in in
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
+- Has collection of many web pages including Home, About , Contact, Menu, and health related information etc.
 - User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Included the feedback Survey form to increase the scope of improvement.
+- Improved Chatbot included for health related queries.
 
 ## Screenshots
 
@@ -31,7 +31,7 @@ This is a web based application developed for health related based website in in
    ![Screenshot (5)](https://user-images.githubusercontent.com/126402413/232741587-bf5789e6-5c91-496b-a36a-623546a62746.png)
 
 
-### About Us -
+### About  -
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/126402413/232741707-b91e10a6-ca60-4a48-afa0-901c16144c1f.png)
 
@@ -41,14 +41,12 @@ This is a web based application developed for health related based website in in
 ![Screenshot (7)](https://user-images.githubusercontent.com/126402413/232741757-67b9e9f8-c1d5-431b-9127-fef814c5906e.png)
 
 
-### Contact us -
+### Contact  -
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/126402413/232741814-f14caf2a-9e0e-409a-896e-ade051719f6f.png)
 
 
 ### health bot
-
-
 
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/126402413/232741864-af746f0c-2945-481b-9d7d-f2797c521919.png)
